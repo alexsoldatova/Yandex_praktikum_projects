@@ -28,7 +28,7 @@
         </tr>
         <tr>
             <td align="center">3</td>
-            <td align="center">Аналитика продаж компьютерных игр</td>
+            <td align="center">Рекомендательная система для маркетплейса</td>
             <td align="center">3</td>
             <td align="center">3</td>
             <td align="center">3</td>
