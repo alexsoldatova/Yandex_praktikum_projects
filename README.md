@@ -21,16 +21,23 @@
         </tr>
         <tr>
             <td align="center">2</td>
-            <td align="center">Аналитика сервиса аренды самокатов</td>
-            <td align="center">R3 Text C</td>
+            <td align="center">Построение модели определения стоимости автомобиля</td>
+            <td align="center">Разработка системы рекомендации стоимости автомобиля на основе его описания</td>
+            <td align="center">градиентный бустинг, регрессия</td>
+            <td align="center">2</td>
         </tr>
         <tr>
             <td align="center">3</td>
             <td align="center">Аналитика продаж компьютерных игр</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
         </tr>
         <tr>
             <td align="center">4</td>
             <td align="center">HR - аналитика</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
         </tr>
         <tr>
             <td align="center">5</td>
@@ -41,6 +48,9 @@
         <tr>
             <td align="center">6</td>
             <td align="center">Прогнозирование количества заказов такси на следюущий час</td>
+            <td align="center">Разработка системы предсказания объема заказа.</td>
+            <td align="center">временные ряды, регрессия, предсказания</td>
+            <td align="center">python, pandas, numpy, statsmodels, sklearn, LGBM, matplotlib</td>
         </tr>
         <tr>
             <td align="center">7</td>
