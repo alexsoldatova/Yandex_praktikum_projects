@@ -29,7 +29,7 @@
         <tr>
             <td align="center">3</td>
             <td align="center">Рекомендательная система для маркетплейса</td>
-            <td align="center">3</td>
+            <td align="center">Предсказание вероятности снижения покупательской активности клиента и подбор рекомендаций</td>
             <td align="center">3</td>
             <td align="center">3</td>
         </tr>
