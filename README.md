@@ -15,7 +15,7 @@
             <td align="center">Анализ рынка недвижимости</td>
             <td align="center">Используя данные сервиса Яндекс.Недвижимость, 
              необходимо было определить рыночную стоимость объектов недвижимости и типичные параметры квартир.</td>
-            <td align="center">обработка данных, histogram, boxplot, scattermatrix,
+            <td align="center">обработка данных, histogram, boxplot, seaborn,
 категоризация, scatterplot</td>
             <td align="center">python, pandas, matplotlib</td>
         </tr>
@@ -30,20 +30,22 @@
             <td align="center">3</td>
             <td align="center">Рекомендательная система для маркетплейса</td>
             <td align="center">Предсказание вероятности снижения покупательской активности клиента и подбор рекомендаций</td>
-            <td align="center">3</td>
-            <td align="center">3</td>
+            <td align="center">регрессия, классификация, пайплайн, кодирование признаков</td>
+            <td align="center">python, pandas, sklearn, seaborn, shap</td>
         </tr>
         <tr>
             <td align="center">4</td>
             <td align="center">HR - аналитика</td>
             <td align="center">На основе результатов опроса сотрудников компании предказан уровень их удовлетворенности и вероятность увольнения</td>
-            <td align="center">регрессия, классификация, пайплайн</td>
+            <td align="center">регрессия, классификация, пайплайн, кодирование признаков, кросс-валидация</td>
+            <td align="center">python, pandas, sklearn, seaborn, shap</td>
         </tr>
         <tr>
             <td align="center">5</td>
             <td align="center">Определение наиболее выгодного региона нефтедобычи</td>
             <td align="center">На основе данных геологи разведки выбрать район добычи нефти</td>
-            <td align="center">регрессия, разработка бизнес-модели, бутстреп</td>
+            <td align="center">регрессия, разработка бизнес-модели, бутстреп, кросс-валидация</td>
+            <td align="center">python, pandas, sklearn, scipy</td>
         </tr>
         <tr>
             <td align="center">6</td>
