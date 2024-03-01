@@ -46,7 +46,9 @@
         </tr>
         <tr>
             <td align="center">5</td>
-            <td align="center">Определение наиболее выгодного региона нефтедобычи</td>
+            <td align="center">
+            <a href="https://github.com/alexsoldatova/Yandex_praktikum_projects/tree/main/Well_locations_bootstrap">Определение наиболее выгодного региона нефтедобычи</a>
+            </td>
             <td align="center">На основе данных геологи разведки выбрать район добычи нефти</td>
             <td align="center">регрессия, разработка бизнес-модели, бутстреп, кросс-валидация</td>
             <td align="center">python, pandas, sklearn, scipy</td>
