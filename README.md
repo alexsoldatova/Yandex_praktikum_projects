@@ -35,7 +35,9 @@
         </tr>
         <tr>
             <td align="center">4</td>
-            <td align="center">HR - аналитика</td>
+            <td align="center">
+             <a href="https://github.com/alexsoldatova/Yandex_praktikum_projects/tree/main/HR%20analytics">HR - аналитика</a>
+             </td>
             <td align="center">На основе результатов опроса сотрудников компании предказан уровень их удовлетворенности и вероятность увольнения</td>
             <td align="center">регрессия, классификация, пайплайн, кодирование признаков, кросс-валидация</td>
             <td align="center">python, pandas, sklearn, seaborn, shap</td>
