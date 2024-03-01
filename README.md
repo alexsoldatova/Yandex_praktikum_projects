@@ -28,7 +28,9 @@
         </tr>
         <tr>
             <td align="center">3</td>
-            <td align="center">Рекомендательная система для маркетплейса</td>
+            <td align="center">
+             <a href="https://github.com/alexsoldatova/Yandex_praktikum_projects/tree/main/Personal%20recommendations">Рекомендательная система для маркетплейса</a>
+            </td>
             <td align="center">Предсказание вероятности снижения покупательской активности клиента и подбор рекомендаций</td>
             <td align="center">регрессия, классификация, пайплайн, кодирование признаков</td>
             <td align="center">python, pandas, sklearn, seaborn, shap</td>
