@@ -12,7 +12,9 @@
     <tbody>
         <tr>
             <td rowspan=1 align="center">1</td>
-            <td align="center">Анализ рынка недвижимости</td>
+            <td align="center">
+             <a href="https://github.com/alexsoldatova/Yandex_praktikum_projects/tree/main/advertisements_apartments">Анализ рынка недвижимости</a>
+            </td>
             <td align="center">Используя данные сервиса Яндекс.Недвижимость, 
              необходимо было определить рыночную стоимость объектов недвижимости и типичные параметры квартир.</td>
             <td align="center">обработка данных, histogram, boxplot, seaborn,
