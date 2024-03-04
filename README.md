@@ -12,7 +12,9 @@
     <tbody>
         <tr>
             <td rowspan=1 align="center">1</td>
-            <td align="center">Анализ рынка недвижимости</td>
+            <td align="center">
+             <a href="https://github.com/alexsoldatova/Yandex_praktikum_projects/tree/main/advertisements_apartments">Анализ рынка недвижимости</a>
+            </td>
             <td align="center">Используя данные сервиса Яндекс.Недвижимость, 
              необходимо было определить рыночную стоимость объектов недвижимости и типичные параметры квартир.</td>
             <td align="center">обработка данных, histogram, boxplot, seaborn,
@@ -21,7 +23,7 @@
         </tr>
         <tr>
             <td align="center">2</td>
-            <td align="center">Построение модели определения стоимости автомобиля</td>
+            <td align="center">Модель определения стоимости автомобиля</td>
             <td align="center">Разработка системы рекомендации стоимости автомобиля на основе его описания</td>
             <td align="center">градиентный бустинг, регрессия</td>
             <td align="center">python, pandas, numpy, statsmodels, sklearn, LGBM, matplotlib</td>
