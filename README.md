@@ -23,7 +23,9 @@
         </tr>
         <tr>
             <td align="center">2</td>
-            <td align="center">Модель определения стоимости автомобиля</td>
+            <td align="center">
+             <a href="https://github.com/alexsoldatova/Yandex_praktikum_projects/tree/main/Cars_sale">Модель определения стоимости автомобиля</a>
+            </td>
             <td align="center">Разработка системы рекомендации стоимости автомобиля на основе его описания</td>
             <td align="center">градиентный бустинг, регрессия</td>
             <td align="center">python, pandas, numpy, statsmodels, sklearn, LGBM, matplotlib</td>
