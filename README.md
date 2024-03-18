@@ -59,7 +59,9 @@
         </tr>
         <tr>
             <td align="center">6</td>
-            <td align="center">Прогнозирование количества заказов такси на следюущий час</td>
+            <td align="center">
+             <a href="https://github.com/alexsoldatova/Yandex_praktikum_projects/tree/main/Taxi%20order%20forecasting">Прогнозирование количества заказов такси на следюущий час</a>
+            </td>
             <td align="center">Разработка системы предсказания объема заказа.</td>
             <td align="center">временные ряды, регрессия, предсказания</td>
             <td align="center">python, pandas, numpy, statsmodels, sklearn</td>
